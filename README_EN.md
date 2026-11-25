@@ -42,6 +42,8 @@
   [1. Erosion-CN] Device Enablement ──▶ [2. AppleFlow] Zero-MitM Routing ──▶ [3. AppleLens] macOS Radar · Probe · Report Lens
 ```
 
+> 📖 Independent Architecture Deep-Dive (zh-Hans): [*Zero-MitM Observability into Apple Intelligence: Inside AppleLens's `libproc` Radar, `MobileDevice` Tunnel & Offline Protobuf Attestation Architecture*](https://lijianfei.com/post/applelens-macos-zero-mitm-apple-intelligence-observability-architecture/)
+
 ---
 
 ## Architecture &amp; 4 Core Modules

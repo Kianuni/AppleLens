@@ -42,6 +42,8 @@
   [1. Erosion-CN] 设备端底层准入 ──▶ [2. AppleFlow] 零 MitM 精准分流 ──▶ [3. AppleLens] macOS 观测 · 探针 · 报告取证
 ```
 
+> 📖 外部独立底层架构解析：[《零 MitM 透视 Apple 智能端云黑盒：AppleLens 的 libproc 雷达、MobileDevice 隧道与 Protobuf 离线验签架构》](https://lijianfei.com/post/applelens-macos-zero-mitm-apple-intelligence-observability-architecture/)
+
 ---
 
 ## 核心功能与四大模块
