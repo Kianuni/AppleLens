@@ -13,6 +13,7 @@
   <a href="./README_EN.md">English</a> ·
   <a href="https://github.com/Kianuni/Erosion-CN">Erosion-CN</a> ·
   <a href="https://github.com/Kianuni/AppleFlow">AppleFlow</a> ·
+  <a href="https://kianuni.github.io/Lokey-Audit/">Lokey 零联网输入法</a> ·
   <a href="https://github.com/Kianuni/WQGuard">WQGuard</a> ·
   <a href="https://github.com/Kianuni/Enkard">Enkard</a> ·
   <a href="https://github.com/Kianuni/Camlo">Camlo · 开幕</a>
@@ -205,8 +206,9 @@ swift test --parallel
 
 | 项目 | 适用平台 | 核心定位与简介 |
 | :--- | :--- | :--- |
-| **[Erosion-CN](https://github.com/Kianuni/Erosion-CN)** | `iOS / iPadOS` | 系统配置与 `MobileGestalt` 研究工具箱（简体中文防白苹果安全加固版，支持国行 Apple Intelligence / eSIM / FaceTime 音频准入与双金库一键还原） |
+| **[Erosion-CN](https://github.com/Kianuni/Erosion-CN)** | `iOS / iPadOS` | 系统配置与 `MobileGestalt` 研究工具箱（中英双语防白苹果安全加固版，支持国行 Apple Intelligence / eSIM / FaceTime 音频准入与双金库一键还原） |
 | **[AppleFlow](https://github.com/Kianuni/AppleFlow)** | `Surge / Mihomo / Loon / Stash / Sing-box / QX` | 零 MitM 的 Apple 智能、PCC 隐私云计算与中文 Siri 极简分流规则集 + **[在线配置体检台](https://kianuni.github.io/AppleFlow/)** |
+| **[Lokey](https://kianuni.github.io/Lokey-Audit/)** | `iOS / iPadOS` | 1:1 复刻 iOS 26 液态玻璃原生手感的纯离线全拼/双拼输入法；搭载端侧「落墨」引擎与只读 `mmap` 词库扩展，源码级物理零联网（[TestFlight](https://testflight.apple.com/join/Bx9gxXTN) · [源码审计](https://github.com/Kianuni/Lokey-Audit) · [55.3 万词白霜包](https://github.com/Kianuni/lokey-frost-pack)） |
 | **[WQGuard](https://github.com/Kianuni/WQGuard)** | `iOS / macOS CLI` | 面向 iOS 26.2+/27.x 的 100% 只读开源沙盒越权检测、侧载 IPA 静态审查与固件 CVE 防护工具（附 5 大代理客户端防漏洞护盾订阅） |
 | **[Enkard](https://github.com/Kianuni/Enkard)** | `iOS` | 纯离线、零云同步、绑定 Apple Secure Enclave 硬件安全芯片的 iPhone 银行级加密卡包 |
 | **[Camlo · 开幕](https://github.com/Kianuni/Camlo)** | `iOS / iPadOS 26–27` | 让 iPhone 锁屏活起来：免电脑、免越狱一键应用滑动解锁变身、裸眼 3D 视差与动态锁屏壁纸（内置云端馆藏画廊） |
@@ -215,4 +217,4 @@ swift test --parallel
 
 ## 开源许可 (License)
 
-本项目基于 **[MIT License](./LICENSE)** 开源。欢迎与 **[Erosion-CN](https://github.com/Kianuni/Erosion-CN)**、**[AppleFlow](https://github.com/Kianuni/AppleFlow)**、**[WQGuard](https://github.com/Kianuni/WQGuard)**、**[Enkard](https://github.com/Kianuni/Enkard)** 及 **[Camlo · 开幕](https://github.com/Kianuni/Camlo)** 搭配使用与自由贡献。
+本项目基于 **[MIT License](./LICENSE)** 开源。欢迎与 **[Erosion-CN](https://github.com/Kianuni/Erosion-CN)**、**[AppleFlow](https://github.com/Kianuni/AppleFlow)**、**[Lokey](https://kianuni.github.io/Lokey-Audit/)**、**[WQGuard](https://github.com/Kianuni/WQGuard)**、**[Enkard](https://github.com/Kianuni/Enkard)** 及 **[Camlo · 开幕](https://github.com/Kianuni/Camlo)** 搭配使用与自由贡献。

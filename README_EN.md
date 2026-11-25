@@ -13,6 +13,7 @@
   <strong>English</strong> ·
   <a href="https://github.com/Kianuni/Erosion-CN">Erosion-CN</a> ·
   <a href="https://github.com/Kianuni/AppleFlow">AppleFlow</a> ·
+  <a href="https://kianuni.github.io/Lokey-Audit/">Lokey</a> ·
   <a href="https://github.com/Kianuni/WQGuard">WQGuard</a> ·
   <a href="https://github.com/Kianuni/Enkard">Enkard</a> ·
   <a href="https://github.com/Kianuni/Camlo">Camlo</a>
@@ -205,6 +206,7 @@ Explore the rest of Kianuni's Apple security, privacy, and customization ecosyst
 | :--- | :--- | :--- |
 | **[Erosion-CN](https://github.com/Kianuni/Erosion-CN)** | `iOS / iPadOS` | Bootloop-hardened `MobileGestalt` &amp; system configuration toolkit (enables Apple Intelligence, eSIM &amp; FaceTime Audio on supported `CH/A` builds with dual-vault restore) |
 | **[AppleFlow](https://github.com/Kianuni/AppleFlow)** | `Surge / Mihomo / Loon / Stash / Sing-box / QX` | Minimal zero-MitM split-routing rulesets for Apple Intelligence, PCC &amp; Mandarin Siri + **[Interactive Web Config Doctor](https://kianuni.github.io/AppleFlow/)** |
+| **[Lokey](https://kianuni.github.io/Lokey-Audit/)** | `iOS / iPadOS` | Air-gapped, physically zero-network 26-key Full Pinyin &amp; Shuangpin keyboard with 1:1 native iOS 26 feel and the on-device Inkstone engine ([TestFlight](https://testflight.apple.com/join/Bx9gxXTN) · [`Lokey-Audit`](https://github.com/Kianuni/Lokey-Audit) · [`lokey-frost-pack`](https://github.com/Kianuni/lokey-frost-pack)) |
 | **[WQGuard](https://github.com/Kianuni/WQGuard)** | `iOS / macOS CLI` | 100% read-only iOS sandbox-escape scanner, sideloaded IPA static auditor &amp; firmware CVE guard with 5-client proxy shield subscriptions |
 | **[Enkard](https://github.com/Kianuni/Enkard)** | `iOS` | 100% offline, zero-cloud iPhone encrypted card vault bound to the Apple Secure Enclave |
 | **[Camlo · 开幕](https://github.com/Kianuni/Camlo)** | `iOS / iPadOS 26–27` | PC-free, jailbreak-free interactive slide-to-unlock, 120Hz 3D parallax &amp; motion Lock Screen wallpapers |
@@ -213,4 +215,4 @@ Explore the rest of Kianuni's Apple security, privacy, and customization ecosyst
 
 ## License
 
-Released under the **[MIT License](./LICENSE)** — designed to pair cleanly with **[Erosion-CN](https://github.com/Kianuni/Erosion-CN)**, **[AppleFlow](https://github.com/Kianuni/AppleFlow)**, **[WQGuard](https://github.com/Kianuni/WQGuard)**, **[Enkard](https://github.com/Kianuni/Enkard)**, and **[Camlo](https://github.com/Kianuni/Camlo)**.
+Released under the **[MIT License](./LICENSE)** — designed to pair cleanly with **[Erosion-CN](https://github.com/Kianuni/Erosion-CN)**, **[AppleFlow](https://github.com/Kianuni/AppleFlow)**, **[Lokey](https://kianuni.github.io/Lokey-Audit/)**, **[WQGuard](https://github.com/Kianuni/WQGuard)**, **[Enkard](https://github.com/Kianuni/Enkard)**, and **[Camlo](https://github.com/Kianuni/Camlo)**.
